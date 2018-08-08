@@ -1,2 +1,2 @@
 # hello-world
-just another respository
+来这里学习一下gitHub的使用方法
